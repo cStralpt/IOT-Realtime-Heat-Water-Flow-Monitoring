@@ -3,7 +3,7 @@
 <ul>
 <li>Arduino Uno</li>
 <li>NodeMCU ESP8266</li>
-<li>DS18B20 Temoerature Sensor</li>
+<li>DS18B20 Temperature Sensor</li>
 <li>Water Flow Sensor</li>
 </ul>
  <h6>App Preview:</h6>
