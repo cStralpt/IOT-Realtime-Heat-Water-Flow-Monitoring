@@ -1,0 +1,7 @@
+-- CreateTable
+CREATE TABLE "nodemcu" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "createdAt" DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    "suhu" REAL NOT NULL,
+    "debitair" REAL NOT NULL
+);
